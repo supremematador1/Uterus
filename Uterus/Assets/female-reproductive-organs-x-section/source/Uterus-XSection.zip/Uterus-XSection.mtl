@@ -1,0 +1,38 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 19.11.2015 16:14:25
+
+newmtl Ovary2
+	Ns 96.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3333 0.0510 0.0510
+	Kd 0.3333 0.0510 0.0510
+	Ks 0.4230 0.4230 0.4230
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__389_Mix.png
+	map_Kd Map__389_Mix.png
+	map_Ke Map__394_Falloff.png
+	map_refl Map__389_Mix.png
+	map_bump Map__576_Mix.png
+	map_refl Map__389_Mix.png
+
+newmtl Uterus_XSection
+	Ns 89.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5059 0.0667 0.0784
+	Kd 0.5059 0.0667 0.0784
+	Ks 0.0810 0.0810 0.0810
+	Ke 0.0000 0.0000 0.0000
+	map_Ka UterusXSection_ALL.jpg
+	map_Kd UterusXSection_ALL.jpg
+	map_Ke Map__541_Falloff.png
+	map_refl UterusXSection_ALL.jpg
+	map_bump UterusXSection_BW.jpg
+	map_refl UterusXSection_Capillaries.tif
